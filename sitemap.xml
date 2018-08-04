@@ -3,12 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ztztqtqzq.github.io/post/first/</loc>
+    <lastmod>2018-08-04T14:47:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ztztqtqzq.github.io/about/</loc>
+    <lastmod>2018-08-04T14:46:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ztztqtqzq.github.io/post/foo/</loc>
+    <lastmod>2018-08-04T14:46:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ztztqtqzq.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ztztqtqzq.github.io/</loc>
+    <lastmod>2018-08-04T14:47:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ztztqtqzq.github.io/post/</loc>
+    <lastmod>2018-08-04T14:47:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
